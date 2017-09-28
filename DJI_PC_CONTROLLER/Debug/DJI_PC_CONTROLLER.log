@@ -1,0 +1,24 @@
+﻿Build started 2017/9/23 16:32:45.
+     1>Project "F:\XMcode\DJI_PC_CONTROLLER\DJI_PC_CONTROLLER\DJI_PC_CONTROLLER.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Uic'ing mainwindow.ui...
+       ClCompile:
+         E:\program files\VS2013\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\QT\5.6.3\msvc2013\include /I.\GeneratedFiles\Debug /ID:\QT\5.6.3\msvc2013\include\QtCore /ID:\QT\5.6.3\msvc2013\include\QtGui /ID:\QT\5.6.3\msvc2013\include\QtOpenGL /ID:\QT\5.6.3\msvc2013\include\QtWidgets /ID:\QT\5.6.3\msvc2013\include\QtNetwork /ID:\QT\5.6.3\msvc2013\include\QtWebSockets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_OPENGL_LIB /D QT_WIDGETS_LIB /D QT_NETWORK_LIB /D QT_WEBSOCKETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt mainwindow.cpp
+         mainwindow.cpp
+       Link:
+         E:\program files\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\XMcode\DJI_PC_CONTROLLER\Win32\Debug\\DJI_PC_CONTROLLER.exe" /NOLOGO /LIBPATH:D:\QT\5.6.3\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5OpenGLd.lib opengl32.lib glu32.lib Qt5Widgetsd.lib Qt5Networkd.lib Qt5WebSocketsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\XMcode\DJI_PC_CONTROLLER\Win32\Debug\DJI_PC_CONTROLLER.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\XMcode\DJI_PC_CONTROLLER\Win32\Debug\DJI_PC_CONTROLLER.lib" /MACHINE:X86 /SAFESEH Debug\controlsender.obj
+         Debug\moc_controlsender.obj
+         Debug\moc_mainwindow.obj
+         Debug\moc_telemetrygetter.obj
+         Debug\moc_videogetter.obj
+         Debug\qrc_mainwindow.obj
+         Debug\main.obj
+         Debug\mainwindow.obj
+         Debug\telemetrygetter.obj
+         Debug\videogetter.obj
+         DJI_PC_CONTROLLER.vcxproj -> F:\XMcode\DJI_PC_CONTROLLER\Win32\Debug\DJI_PC_CONTROLLER.exe
+     1>Done Building Project "F:\XMcode\DJI_PC_CONTROLLER\DJI_PC_CONTROLLER\DJI_PC_CONTROLLER.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.12
